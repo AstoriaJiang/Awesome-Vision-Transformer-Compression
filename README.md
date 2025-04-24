@@ -1,12 +1,12 @@
 # Awesome-Vision-Transformer-Compression
 
 # Content
-- [[#Survey|Survey]]
-- [[#Compact Architecture|Compact Architecture]]
-- [[#Quantization|Quantization]]
-- [[#Pruning|Pruning]]
-- [[#Knowledge Distillation|Knowledge Distillation]]
-- [[#Low-Rank Factorization|Low-Rank Factorization]]
+- [Survey](#Survey)
+- [Compact Architecture](#Compact Architecture)
+- [Quantization](#Quantization)
+- [Pruning](#Pruning)
+- [Knowledge Distillation](#Knowledge Distillation)
+- [Low-Rank Factorization](#Low-Rank Factorization)
 
 ## Survey
 
